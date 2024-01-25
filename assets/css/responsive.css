@@ -1,0 +1,149 @@
+@media (max-width: 1199.98px) {
+ 
+}
+@media (max-width: 991.98px) {
+    
+}
+@media (max-width: 767.98px){
+   
+   
+}
+
+@media (max-width: 575.98px){
+    .announcement-banner {
+        padding-top: 10px;
+    }
+    .navlinks{
+        position: fixed;
+        left: -100%;
+        top: 0px;
+        background-color: #1f1f1f;
+        height: 100vh;
+        width: 50%;
+        transition: all .7s cubic-bezier(.645,.045,.355,1);
+        border-top: 1px solid #d8d8d8;
+        z-index: 9999;
+    }
+    .navlinks ul{
+        display: block;
+        padding: 10px 0px;
+    }
+    .navlinks ul li a{
+        color: #ffffff;
+        display: inline-block;
+        width: 100%;
+        padding: 13px 16px;
+        border-bottom: 1px solid #7a6969;
+        position: relative;
+    }
+    .navlinks ul li{
+        margin: 0;
+    }
+    
+  .top_wrapper{
+    text-align: center;
+    display: unset;
+  } 
+  .banner_wrapper h1 {
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+} 
+.banner_wrapper{
+    text-align: center;
+    padding: 0px 0px 42px;
+}
+.company_wrapper{
+    display: block;
+}
+.input_part{
+    display: block;
+}
+.input input{
+    width: 100%;
+}
+.input{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.input_button{
+    text-align: center;
+}
+.footer_image{
+    flex-wrap: wrap;
+}
+.input_button button{
+    width: 100%;
+}
+
+.footer_link{
+    margin: 0;
+    width: 33%;
+}
+.overlay h2{
+    font-size: 16px;
+}
+.title h2 {
+    font-size: 27px;
+    color: #063514;
+    text-transform: uppercase;
+    margin-bottom: 0px;
+}
+.top_header_links ul li a{
+    font-size: 10px;
+}
+.group_img{
+    margin: 0;
+}
+.group_btn{
+    margin-bottom: 10px;
+}
+.overlay{
+    position: relative;
+    padding: 20px 17px 16px;
+    top: 0;
+    width: 100%;
+}
+.overlay p{
+    font-size: 12px;
+}
+.menubar{
+    display: block;
+    padding: 16px 0px;
+}
+.tickets{
+    display: block;
+}
+.image_slide{
+    width: 100%;
+}
+.slide{
+    width: 100%;
+    position: unset;
+}
+.slide p{
+    font-size: 14px;
+    line-height: 22px;
+}
+.slide h2{
+    font-size: 32px;
+}
+.navlinks ul li a span{
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+.adds_wrapper{
+    display: block;
+}
+.adds_page h2{
+    font-size: 30px;
+}
+.adds_page{
+    margin-bottom: 20px;
+}
+.adds_page p{
+    font-size: 14px;
+}
+}
